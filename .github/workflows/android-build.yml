@@ -47,9 +47,14 @@ jobs:
         run: chmod +x ./gradlew
         working-directory: Android
 
+      # Clean project
+      - name: Clean project
+        run: ./gradlew clean --no-daemon
+        working-directory: Android
+
       # Build APK
       - name: Build Debug APK
-        run: ./gradlew clean assembleDebug --no-daemon
+        run: ./gradlew assembleDebug --no-daemon
         working-directory: Android
 
       # Upload APK artifact
