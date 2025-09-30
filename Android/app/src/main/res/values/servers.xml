@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- Only our DoH server (hardcoded) -->
-	<string name="servers">
-		https://stn.sajad-dragon-20.workers.dev/dns-query|MyServer|Notes
-	</string>
+    <string name="servers"><![CDATA[
+https://stn.sajad-dragon-20.workers.dev/dns-query|MyServer|Notes
+]]></string>
 </resources>
