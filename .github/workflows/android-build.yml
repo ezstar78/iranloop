@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-  workflow_dispatch:   # تا بتونی دستی هم Run Workflow بزنی
+  workflow_dispatch:
 
 jobs:
   build:
@@ -40,7 +40,8 @@ jobs:
         run: ./gradlew clean assembleDebug --no-daemon
 
       - name: Upload APK artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: app-debug-apk
           path: '**/build/outputs/**/*.apk'
+          if-no-files-found: error
