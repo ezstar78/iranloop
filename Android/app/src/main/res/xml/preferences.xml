@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-    <app.intra.ui.settings.ServerChooser
-            android:key="@string/server_choice_key"
-            android:title="@string/server_choice"
-            android:dialogTitle="@string/server_choice"/>
-    <MultiSelectListPreference
+	<MultiSelectListPreference
             android:key="pref_apps"
             android:title="@string/excluded_apps"
             android:summary="@string/excluded_apps_summary"
