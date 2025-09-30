@@ -6,13 +6,13 @@
 
     <!-- Intro Text -->
     <string name="intro_benefit_headline">More open internet access</string>
-    <string name="intro_benefit_body">iranloop protects you from DNS manipulation, a cyber attack used to block access to news sites, social media platforms, and messaging apps.\n\nWhile iranloop protects you against DNS manipulation, there are other, more complicated blocking techniques and attacks that iranloop doesn't protect against.</string>
+    <string name="intro_benefit_body">iranloop protects you from DNS manipulation, a cyber attack used to block access to news sites, social media platforms, and messaging apps.&#10;&#10;While iranloop protects you against DNS manipulation, there are other, more complicated blocking techniques and attacks that iranloop doesn't protect against.</string>
 
     <string name="intro_manipulation_headline">Protection from DNS manipulation</string>
-    <string name="intro_manipulation_body">iranloop protects your connection to the Domain Name System (DNS), which provides the exact addresses you need to visit a website or open an app.\n\niranloop uses encryption to ensure that results can't be manipulated, helping you safely access the internet.</string>
+    <string name="intro_manipulation_body">iranloop protects your connection to the Domain Name System (DNS), which provides the exact addresses you need to visit a website or open an app.&#10;&#10;iranloop uses encryption to ensure that results can't be manipulated, helping you safely access the internet.</string>
 
     <string name="intro_details_headline">One last thing&#8230;</string>
-    <string name="intro_details_body">Tap OK to allow iranloop to protect your DNS requests. By default, they will be routed to <a href="https://t.me/gamesubcracker">gamesubcracker</a>.</string>
+    <string name="intro_details_body">Tap OK to allow iranloop to protect your DNS requests. By default, they will be routed to &lt;a href="https://t.me/gamesubcracker"&gt;gamesubcracker&lt;/a&gt;.</string>
 
     <string name="intro_back">back</string>
     <string name="intro_next">next</string>
@@ -29,7 +29,7 @@
     <string name="privacy_link">Privacy Policy</string>
     <string name="tos_link">Terms of Service</string>
     <string name="source_code">Source Code</string>
-    <string name="credits_text">Created for Iranian users with \u2665 <a href="https://t.me/gamesubcracker">gamesubcracker</a></string>
+    <string name="credits_text">Created for Iranian users with ♥ &lt;a href="https://t.me/gamesubcracker"&gt;gamesubcracker&lt;/a&gt;</string>
 
     <!-- Status -->
     <string name="indicator_on">On</string>
@@ -76,7 +76,7 @@
     <!-- Servers -->
     <string name="server_label">Secure DNS server</string>
     <string name="server_headline">You deserve to use a trustworthy DNS server</string>
-    <string name="server_body">This field shows the name of the secure DNS server that you're using. All connections go through <a href="https://t.me/gamesubcracker">gamesubcracker</a>.</string>
+    <string name="server_body">This field shows the name of the secure DNS server that you're using. All connections go through &lt;a href="https://t.me/gamesubcracker"&gt;gamesubcracker&lt;/a&gt;.</string>
     <string name="default_server_label">Current DNS server</string>
     <string name="unknown_server">(unknown server)</string>
 
