@@ -1,6 +1,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name" translatable="false">Iranloop</string>
 
+   <!-- Fix for missing resources -->
+  <string name="legacy_domain0"></string>
+  <string name="url0"></string>
+
   <!-- Intro text -->
   <string name="intro_benefit_headline" description="Headline for intro page describing key benefit">
     More open internet access
