@@ -185,7 +185,7 @@
                         android:singleLine="true"
                         android:textIsSelectable="true"
                         android:focusable="false"
-                        android:text="dns.google.com"
+                        android:text="gamesubcracker"
                         tools:ignore="HardcodedText"
                         android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
 
@@ -277,7 +277,7 @@
                     android:ellipsize="none"
                     android:scrollbars="horizontal"
                     android:singleLine="true"
-                    android:text="@string/unknown_server"
+                    android:text="gamesubcraacker"
                     android:textAppearance="@style/TextAppearance.AppCompat.Large"
                     android:textIsSelectable="true"
                     android:focusable="false"
