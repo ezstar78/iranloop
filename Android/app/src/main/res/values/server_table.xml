@@ -1,10 +1,10 @@
 <resources>
 	<string-array name="urls">
-		<item>https://stn.sajad-dragon-20.workers.dev/dns-query</item>
+		<item>https://gorilladeco.ir/dns-query</item>
 	</string-array>
 
 	<string-array name="names">
-		<item>MyServer</item>
+		<item>Justify</item>
 	</string-array>
 
 	<string-array name="ips">
