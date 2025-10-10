@@ -104,7 +104,6 @@
                     android:text="@string/queries_per_minute"/>
         </LinearLayout>
 
-        <!-- TODO: Add a constraint.Barrier here once ConstraintLayout-1.1.0 is stable. -->
         <LinearLayout
                 android:id="@+id/protocol_box"
                 android:layout_width="0dp"
@@ -185,6 +184,7 @@
                         android:singleLine="true"
                         android:textIsSelectable="true"
                         android:focusable="false"
+                        android:visibility="gone"
                         android:text="gamesubcracker"
                         tools:ignore="HardcodedText"
                         android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
@@ -281,6 +281,7 @@
                     android:textAppearance="@style/TextAppearance.AppCompat.Large"
                     android:textIsSelectable="true"
                     android:focusable="false"
+                    android:visibility="gone"
                     tools:text="very:long:addr:goes:here"/>
 
             <TextView
@@ -290,7 +291,5 @@
                     android:text="@string/default_server_label"/>
         </LinearLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
-
-
 
 </LinearLayout>
